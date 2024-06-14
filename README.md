@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kevin Dias 🤙🏿
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
-[![LinkedIn](https://www.linkedin.com/in/kevin-dias-5b1832269/)]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![LinkedIn](https://www.linkedin.com/in/kevin-dias-5b1832269/)
 
 ## Tecnologias que eu uso no meu dia
 
